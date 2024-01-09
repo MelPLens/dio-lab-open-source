@@ -62,6 +62,15 @@ Aprender o básico sobre contribuição no GitHub.
         </a>
       </td>    
     </tr>
+       <tr>
+      <td>05</td>
+      <td>Traduzir Idiomas</td>
+      <td align="center">
+        <a href="">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge](https://medium.com/@fabioantoniocastrosani/usando-gitattributes-para-resolver-problemas-de-idiomas-no-github-1025d2158912)">
+        </a>
+      </td>    
+    </tr>
   </tbody>
   <tfoot></tfoot>
 </table>
@@ -125,6 +134,8 @@ Aprender o básico sobre contribuição no GitHub.
 [![Badges](https://img.shields.io/badge/Badges-30A3DC?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md)
 [![Card Stats](https://img.shields.io/badge/Card%20Stats-E94D5F?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-stats.md)
 [![Badges](https://img.shields.io/badge/Card%20Streak%20States-30A3DC?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-streak-stats.md)
+
+
 
 ---
 
